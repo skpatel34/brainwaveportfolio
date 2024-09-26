@@ -1,5 +1,5 @@
 import { socials } from "../constants/iandex";
-import Section from "./Section";
+import Section from "./section";
 
 const Footer = () => {
   return (

@@ -1,7 +1,7 @@
 import { smallSphere, stars } from "../assets";
 import Heading from "./Heading";
 import PricingList from "./PricingList";
-import Section from "./Section";
+import Section from "./section";
 import { LeftLine, RightLine } from "./design/Pricing";
 
 const Pricing = () => {

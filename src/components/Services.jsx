@@ -2,7 +2,7 @@ import { check, service1, service2, service3 } from "../assets";
 import { brainwaveServices, brainwaveServicesIcons } from "../constants/iandex";
 import Generating from "./Generating";
 import Heading from "./Heading";
-import Section from "./Section";
+import Section from "./section";
 import {
   Gradient,
   PhotoChatMessage,
